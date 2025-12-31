@@ -1,0 +1,14 @@
+/* ===========================================
+   RESET BÁSICO
+   =========================================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.title__main {
+    font-family: "Google Sans Flex";
+}
